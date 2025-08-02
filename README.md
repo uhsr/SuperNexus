@@ -72,3 +72,4 @@ Contributions to SuperNexus are welcome and appreciated! We value community inpu
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/uhsr/SuperNexus/blob/main/LICENSE) file for details.
+.
